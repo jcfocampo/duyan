@@ -10,7 +10,7 @@ http://ndasat.pro:8000/live/dshdgf67767/1593574628/10922.ts
 #EXTINF:-1,UK:Disney Junior
 http://ndasat.pro:8000/live/dshdgf67767/1593574628/10923.ts
 #EXTINF:-1,UK:Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/463.ts
+http://iptv.magsat.tv:80/live/minialv/ZZWBEvlUpk/463.ts
 #EXTINF:-1,UK:FOX
 http://ndasat.pro:8000/live/dshdgf67767/1593574628/9523.ts
 #EXTINF:-1,UK:MTV_Base
